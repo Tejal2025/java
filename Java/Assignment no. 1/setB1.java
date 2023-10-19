@@ -34,3 +34,15 @@ class setB1
     System.out.println("Current date is" +s9.format(currentDate));
    }
 }
+
+/*
+Current date is- 18/08/2023
+Current date is- 08/18/2023
+Current date is- Friday August 18 2023
+Current date and time is- Fri August 18 15:08:48 IST 2023
+Current date and time is- 18/08/2023 15:08:48 pm +0530
+Current time is- 15:08:48
+Current week of year is- 33
+Current week of month is- 3
+Current daye of the year is- 230
+*/
