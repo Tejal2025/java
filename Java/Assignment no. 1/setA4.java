@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class setA4
 {
-        public staitc void main(Sting[] args)
+        public  static void main(Sting[] args)
         {
             Scanner sc=new Scanner(System.in);
             System.out.println("Enter the size of elements :");
