@@ -22,3 +22,19 @@ public class setA4
         }
 }
            
+/*
+Enter The size of elements :
+5
+Enter the array element:
+4
+9
+5
+1
+3
+reverse order is :
+3
+1
+5
+9
+4
+*/
