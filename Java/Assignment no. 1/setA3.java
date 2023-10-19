@@ -72,8 +72,6 @@ class setA3
 }
 
 /*
-ty32@pc38:~/TYBCS-32/JAVA/Assignment No 1$ javac setA3.java
-ty32@pc38:~/TYBCS-32/JAVA/Assignment No 1$ java setA3	       
 1.Volume of cylinder:
 2.Factorial of Number:
 3.Number is Armstrong or not:
